@@ -2,10 +2,11 @@
 <h1>Maps<h1/>
 
 
-[MAP 1.pdf](https://github.com/git-mo-betta/git-mo-betta/files/14014254/MAP.1.pdf)
 
-[MAP 2.pdf](https://github.com/git-mo-betta/git-mo-betta/files/14014243/MAP.2.pdf)
+![MAP 1-1](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/a23c2551-556a-4a5f-8790-723a10415ad4)
 
-[MAP 3.pdf](https://github.com/git-mo-betta/git-mo-betta/files/14014246/MAP.3.pdf)
+![MAP 2-1](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/01ce1dc5-b47d-4278-a4b5-b9181f782d11)
 
-[map 4 .pdf](https://github.com/git-mo-betta/git-mo-betta/files/14014247/map.4.pdf)
+![MAP 3-1](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/ce383fcc-8175-43d4-b442-25134979f82b)
+
+![map 4 -1](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/c2df893f-854f-4fa5-b883-db86b781d657)
